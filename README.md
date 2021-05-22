@@ -36,13 +36,11 @@
 
 ### &#x1f4c8; GitHub Stats
 
-<p>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolaslohan&show_icons=true&theme=dark)](https://github.com/nicolaslohan/github-readme-stats)
-  
-[![Nicolas's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolaslohan&show_icons=true&theme=dark)](https://github.com/nicolaslohan/github-readme-stats)
-  
-</p>
+<div>
+  <a href="https://github.com/nicolaslohan">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolaslohan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolaslohan&layout=compact&langs_count=16&theme=dark"/>
+<div>
 
 <p align="center">
 <br>
