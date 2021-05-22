@@ -1,7 +1,6 @@
 ### Hi there! My name is Nicolas Lohan 👋
 
 ### &#x1f4c8; GitHub Stats
-
 <div>
   <a href="https://github.com/nicolaslohan">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolaslohan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
