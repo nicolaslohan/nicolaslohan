@@ -30,9 +30,6 @@
       <item> JavaScript </item>
     </programming>
   </study>
-  <working>
-    <item> front-end android development project </item>
-  </working>
   <gaming>
     <item> League Of Legends </item>
     <item> The Sims 4 </item>
