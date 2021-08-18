@@ -21,14 +21,14 @@
   <study>
     <actual-school> Instituto Federal de Ciência e Tecnologia da Paraíba - campus Campina Grande </actual-school>
     <graduation-goal> Design </graduation-goal>
-    <languages>
+    <programming>
       <item> Python </item>
       <item> Java </item>
       <item> HTML and CSS </item>
       <item> Kotlin </item>
       <item> PHP </item>
       <item> JavaScript </item>
-    </languages>
+    </programming>
   </study>
   <working>
     <item> front-end android development project </item>
