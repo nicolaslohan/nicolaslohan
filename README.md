@@ -1,4 +1,8 @@
-### Hi there! My name is Nicolas Lohan 👋
+### Hi there! My name is Nicolas Lohan 👋😄
+
+- Computer Technician 🎓
+- Current Computer Engineering student at IFPB - Campina Grande 👨‍💻
+- Worked as a programmer on an Android application project with Kotlin 📱
 
 ### &#x1f4c8; GitHub Stats
 <div>
@@ -6,38 +10,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolaslohan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolaslohan&layout=compact&langs_count=16&theme=dark"/>
 <div>
-  
-### About Myself
-
-```xml
-<?xml version="1.0" encoding="UTF-8"?>
-<nicolaslohan>
-  <myself>
-    <pronouns> He | Him <pronouns>
-    <age> 19yo <age>
-    <nationality> Brazilian </nationality>
-    <favorite-colors> Orange, Blue and Black </favorite-colors>
-  </myself>
-  <study>
-    <actual-school> Instituto Federal de Ciência e Tecnologia da Paraíba - campus Campina Grande </actual-school>
-    <graduation-goal> Design </graduation-goal>
-    <programming>
-      <item> Python </item>
-      <item> Java </item>
-      <item> HTML and CSS </item>
-      <item> Kotlin </item>
-      <item> PHP </item>
-      <item> JavaScript </item>
-    </programming>
-  </study>
-  <gaming>
-    <item> League Of Legends </item>
-    <item> The Sims 4 </item>
-    <item> SimCity </item>
-    <item> Valorant </item>
-  </gaming>
-</nicolaslohan>
-```
 
 <p align="center">
 <br>
