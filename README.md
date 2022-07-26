@@ -1,4 +1,4 @@
-### Hi there! My name is Nicolas Lohan 👋😄
+### Hi there! My name is Nicolas 👋😄
 
 - Computer Technician 🎓
 - Current Computer Engineering student at IFPB - Campina Grande 👨‍💻
