@@ -4,12 +4,27 @@
 - Current Computer Engineering student at IFPB - Campina Grande 👨‍💻
 - Worked as a programmer on an Android application project with Kotlin 📱
 
+<p align="center">
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"></code>
+<br><br>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg"></code>
+<br><br>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></code>
+
+
+</p>
+
 ### &#x1f4c8; GitHub Stats
-<div align="center">
-  <a href="https://github.com/nicolaslohan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolaslohan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolaslohan&layout=compact&langs_count=16&theme=dark"/>
-<div>
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolaslohan&count_private=true&show_icons=true&theme=tokyonight"/><img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolaslohan&theme=tokyonight"/>
+</p>
+
 
 <p align="center">
 <br>
