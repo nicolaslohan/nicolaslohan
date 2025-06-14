@@ -4,8 +4,8 @@
 
 - 🐍 **Python**
 - 📊 **Looker Studio**
-- 📈 **Power BI**
 - 🧩 **GoodData**
+- 📈 **Power BI**
 - 🔄 Front‑end & Back‑end development
 
 I help businesses transform data into insights and build efficient, user‑focused digital solutions that drive results.
